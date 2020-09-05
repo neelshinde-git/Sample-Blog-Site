@@ -7,4 +7,5 @@ Functioning:
 4) Stories can be searched in the search bar to minimize results
 
 "React Code" folder contains the source files.
+
 Hosted at: https://sad-meitner-0263a2.netlify.app/
